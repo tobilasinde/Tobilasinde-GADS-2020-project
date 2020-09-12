@@ -12,3 +12,12 @@ Practice Project for Cloud 2020
 
 # 4 
 ![image4](https://res.cloudinary.com/sarahembee/image/upload/v1599861992/Screenshot_592_qyv1g9.png) 
+
+# 5
+![image5](https://res.cloudinary.com/sarahembee/image/upload/v1599868881/Screenshot_593_r4pqkd.png) 
+
+# 6
+![image6](https://res.cloudinary.com/sarahembee/image/upload/v1599868955/Screenshot_594_ttuuwp.png) 
+
+# 7
+![image7](https://res.cloudinary.com/sarahembee/image/upload/v1599869005/Screenshot_595_gv7l8l.png) 
